@@ -1,3 +1,4 @@
 dummy file testing git.
 dummy line.
 dummy line 2.
+dummy line 4.
